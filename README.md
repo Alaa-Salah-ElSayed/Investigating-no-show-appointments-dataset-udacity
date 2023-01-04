@@ -7,9 +7,9 @@ This dataset includes data from 100k medical appointments in Brazil and focuses 
 # Project Datast:
 no show appointments
 # Progress outline:
- 1-Cleaning data
+ 1-Cleaning the data
  
- 2-exploring data
+ 2-exploring the data
  
  3- visualizing the data
 
